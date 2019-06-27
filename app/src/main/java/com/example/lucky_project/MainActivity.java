@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         String a="";
         int e=0;
         int f=1;
+        int e1e=123;
+
     }
 }
